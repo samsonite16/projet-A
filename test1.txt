@@ -1,3 +1,4 @@
 L1 - Un simple test
 L2 - Utilisation de git
 another information added to the file
+another line
